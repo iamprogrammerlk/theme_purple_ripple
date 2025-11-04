@@ -5,7 +5,8 @@
 
 <div align="center" style="text-align: center;">
   <a href="https://iamprogrammer.lk/theme_purple_ripple">
-    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="iamprogrammer.lk" width="100%">
+    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="Purple Ripple (Theme by I am Programmer)"
+    width="100%">
   </a>
 </div>
 
@@ -23,13 +24,26 @@ Chromium-based web browsers, it’s perfect for dreamers and thinkers who love g
 Transform your browsing experience today with this beautiful theme, where minimalism meets elegance. With this
 beautifully designed theme, you can enjoy a more pleasant and productive digital journey.
 
-📢 Feel free to leave feedback 📢
+<br>
+<br>
 
-> [!TIP]
->
-> ## ⭐ Star This Repository
->
-> If you enjoy this project and my work, please consider supporting me by giving a ⭐ star ⭐ to this repository.
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
+
+---
+
+# 📝 Documentation
+
+### 📚 Official Documentation: [Our Documentation][documentation]
+
+### 🚀 Getting Started Guide: [Quickstart][documentation]
+
+### 💡 Examples & Demos: [Examples][documentation]
+
+### 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
+
+### 🎥 Video Tutorials: [YouTube Channel][youtube]
+
+### 📖 API Reference: [API Documentation][api_documentation]
 
 <br>
 <br>
@@ -95,22 +109,6 @@ Then, unzip the file and follow the instructions below, which may vary slightly 
 ![screenshot_04_1280x800_appearance][screenshot_04_1280x800_appearance]
 
 ![screenshot_05_1280x800_search][screenshot_05_1280x800_search]
-
-<br>
-<br>
-
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
-
----
-
-# 💕 Credits
-
-- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
-
-  - 🌐 [iamprogrammer.lk][iamprogrammer_url]
-  - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
-
-- [Contributors][contributors]
 
 <br>
 <br>
@@ -221,6 +219,22 @@ See [license][license_md] for more information.
 
 ---
 
+# 💕 Credits
+
+- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
+
+  - 🌐 [iamprogrammer.lk][iamprogrammer_url]
+  - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
+
+- [Contributors][contributors]
+
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
+
+---
+
 # ©️ Copyright
 
 - Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
@@ -233,7 +247,6 @@ See [license][license_md] for more information.
 
 ---
 
-[chromewebstore]: https://chromewebstore.google.com/detail/kidahnleabdhcfhhehogmjplphjckaie
 [releases]: /../../releases
 [extensions]: chrome://extensions
 [chrome]: https://www.google.com/chrome/
@@ -251,7 +264,6 @@ See [license][license_md] for more information.
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
 [contributors]: /../../graphs/contributors
-[community]: https://reddit.com/r/iamprogrammerlk
 [contributing]: /contributing.md
 [governance]: /governance.md
 [support]: /support.md
@@ -262,3 +274,8 @@ See [license][license_md] for more information.
 [license]: https://choosealicense.com/licenses/mit/
 [license_md]: /license.md
 [security_advisories]: /../../security/advisories/new
+[chromewebstore]: https://chromewebstore.google.com/detail/kidahnleabdhcfhhehogmjplphjckaie
+[community]: https://reddit.com/r/iamprogrammerlk
+[documentation]: https://iamprogrammer.lk/theme_purple_ripple
+[api_documentation]: https://iamprogrammer.lk/theme_purple_ripple
+[youtube]: https://youtube.com/@iamprogrammerlk
